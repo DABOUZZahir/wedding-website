@@ -630,6 +630,12 @@ pre code {
   }
 }
 
+@media (max-width: 600px) {
+  .carousel-btn {
+    display: none
+  }
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
